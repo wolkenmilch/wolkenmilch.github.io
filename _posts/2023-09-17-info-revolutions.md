@@ -2,7 +2,7 @@
 layout: post
 title:  "Form Cave Paintings to Cyberspace"
 toc: true
-excerpt:"The Impact of Information Revolutions on Society
+excerpt: "The Impact of Information Revolutions on Society
 
 ![Information Word Cloud](/assets/pics/InfoWordCloud.png)
 
