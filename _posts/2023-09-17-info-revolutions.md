@@ -4,7 +4,7 @@ title:  "Form Cave Paintings to Cyberspace"
 toc: true
 excerpt: "
 <div style='float: left; margin-right: 20px;'>
-    <img src='/assets/pics/InfoWordCloud.png'
+    <img src='/assets/pics/InfoWordCloud.png'>
 </div>
 <div style='overflow: hidden;'>
     The Impact of Information Revolutions on Society  
