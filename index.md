@@ -1,3 +1,5 @@
+## Projects
+
 {% for project in site.data.projects %}
   <h3><a href="{{ project.link }}">{{ project.name }}</a></h3>
   
@@ -9,7 +11,7 @@
 
 {% endfor %}
 
-
+## Articles
 
 <ul>
   {% for post in site.posts %}
