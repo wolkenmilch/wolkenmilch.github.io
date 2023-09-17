@@ -1,23 +1,19 @@
 ## Projects
 
 {% for project in site.data.projects %}
+
   <h3><a href="{{ project.link }}">{{ project.name }}</a></h3>
-  
   {{ project.description }}
-
   **Organisation**:  *{{ project.organisation }}*
-
   **Tools**: *{{ project.tools }}*
 
 {% endfor %}
 
-## Articles
+## Posts
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+
+  {{ post.excerpt }}
+  <a href="{{ post.url }}">Read More</a>
+
+{% endfor %}
