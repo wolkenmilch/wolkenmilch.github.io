@@ -1,5 +1,4 @@
-### Projects
-a Journey through my Creations
+### Projects - a Journey through my Creations
 
 ---
 
@@ -15,8 +14,7 @@ a Journey through my Creations
 ---
 ---
 
-### Blog
-Exploring Ideas and Insights
+### Blog - Exploring Ideas and Insights
 
 ---
 
