@@ -12,7 +12,7 @@ a Journey through my Creations
 
 {% endfor %}
 
-</br>
+===
 
 ### Blog
 Exploring Ideas and Insights
