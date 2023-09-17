@@ -19,11 +19,13 @@ The Impact of Information Revolutions on Society
 
 ![Information Word Cloud](/assets/pics/InfoWordCloud.png)
 
+* TOC
+
 <div id="toc-container">
     <h2 onclick="toggleTOC()">Table of Contents</h2>
     <div id="toc-content">
         {% capture toc %}
-        * TOC
+        
         {:toc}
         {% endcapture %}
         {{ toc | markdownify }}
