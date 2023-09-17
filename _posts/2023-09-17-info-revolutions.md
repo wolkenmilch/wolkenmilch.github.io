@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Form Cave Paintings to Cyberspace"
+title:  "From Cave Paintings to Cyberspace"
 toc: true
 excerpt: "
 **The Impact of Information Revolutions on Society**  
