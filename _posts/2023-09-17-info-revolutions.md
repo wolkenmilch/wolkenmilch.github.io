@@ -6,7 +6,7 @@ excerpt: "
 **The Impact of Information Revolutions on Society**  
 
 <div style='text-align: left;'>
-    <img src='/assets/pics/InfoWordCloud.png' style='max-width: 50%;float: left; margin-right: 10px;'>
+    <img src='/assets/pics/InfoWordCloud.png' style='max-width: 30%;float: right; margin-left: 10px;'>
 </div>
 
 Throughout human history, the way we communicate, store, and disseminate information has undergone significant transformations. These shifts are often termed as *information revolutions*, which can be defined as pivotal changes in the methods and mediums used for information exchange. These revolutions fall into two broad categories; systems and mediums. Systems, such as the alphabet or the binary code, serve as frameworks of symbolic representations. On the other hand, mediums like stone, paper or digital storage act as vessels for these symbols.
@@ -56,7 +56,7 @@ Together, language and oral traditions were not just tools for communication; th
 
 ## Ancient Civilizations: The Evolution of Writing and Recordkeeping
 
-<div style="display: flex;">
+<div style="display: flex; max-width: 100%;">
     <div style="flex: 50%;">
         <img src="https://global-geography.org/attach/Geography/Europe/Spain/Pictures/Picos_de_Europa/Altamira_-_Cave_Painting_2/B061_Altamira_Malerei_Altamira_Malerei.jpg" title="scientists examine cave paintings">
     </div>
@@ -69,7 +69,7 @@ Together, language and oral traditions were not just tools for communication; th
 
 The inception of human expression and documentation can be traced back to rudimentary symbols, such as cave paintings from around 30,000 BC and petroglyphs dating to approximately 10,000 BC. Fast forward to 3500 BC, and the Sumerian city of Kish became the cradle of cuneiform, a script meticulously carved into clay tablets. Nearly concurrently, around 3200 BC, the Egyptians unveiled hieroglyphics, a complex system that originated as pictograms but later matured into an intricate form of picture writing. Far from being mere artistic pursuits, these early scripts were pivotal in governance, commerce, and the archiving of information, thereby establishing the groundwork for organized societies.
 
-<div style="display: flex;">
+<div style="display: flex; max-width: 100%;">
     <div style="flex: 60%;">
         <img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/321937/1575274/main-image" title="cuneiform carved into clay">
     </div>
@@ -184,7 +184,7 @@ The printing press's introduction in Europe heralded the era of mass communicati
 - **Religious Reformation**: The press played a crucial role in the Protestant Reformation. Martin Luther's theses in 1517, which were widely disseminated due to the printing press, challenged the Catholic Church's practices and doctrines.
 - **Scientific Advancements**: The rapid spread of scientific ideas and discoveries became possible, leading to more collaborative and swift advancements in various fields.
 
-<div style="display: flex;">
+<div style="display: flex; max-width: 100%;">
     <div style="flex: 70%;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg" title="Gutenberg Bible">
     </div>
@@ -340,7 +340,7 @@ The Industrial Revolution wasn't just about producing goods; it was about connec
 
 ### From Telegraph to Mass Media
 
-<div style="display: flex; margin: 10px;">
+<div style="display: flex; margin: 10px; max-width: 100%;">
     <div style="flex: 1;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/OptischerTelegraf.jpg" title="Optischer Telegraf" style="height: 100%;">
     </div>
@@ -400,7 +400,7 @@ In summary, the electromechanical age from 1840 to 1940 had a profound impact on
 
 The 20th century marked a significant shift in the realm of computing, transitioning from mechanical aids to electronic marvels. This evolution not only transformed the way we processed and stored information but also how we disseminated it.
 
-<div style="display: flex; margin: 10px;">
+<div style="display: flex; margin: 10px;  max-width: 100%;">
     <div style="flex: 3;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Zuse_Z1-2.jpg" title="Zuse Z1" style="height: 100%;">
     </div>
