@@ -42,9 +42,13 @@
         <div id="toc-container">
           <h3 onclick="toggleTOC()">Table of Contents</h3>
           <div id="toc-content">
-              {% toc %}
+            {% capture toc %}
+            <div id="toc-content">
+              * TOC
+              {:toc}
           </div>
         </div>
+
         {{ content }}
       </section>
     </div>
