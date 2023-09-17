@@ -4,12 +4,8 @@ title:  "Form Cave Paintings to Cyberspace"
 toc: true
 excerpt: "
 The Impact of Information Revolutions on Society
-
-<div style="text-align: left;">
-    <img src="/assets/pics/InfoWordCloud.png" style="max-width: 50%;float: left; margin-left: 10px;">
-</div>
-
-Throughout human history, the way we communicate, store, and disseminate information has undergone significant transformations. These shifts are often termed as *information revolutions*, which can be defined as pivotal changes in the methods and mediums used for information exchange. These revolutions fall into two broad categories; systems and mediums. Systems, such as the alphabet or the binary code, serve as frameworks of symbolic representations. On the other hand, mediums like stone, paper or digital storage act as vessels for these symbols."
+|---|---|
+| ![Information Word Cloud](/assets/pics/InfoWordCloud.png) | Throughout human history, the way we communicate, store, and disseminate information has undergone significant transformations. These shifts are often termed as *information revolutions*, which can be defined as pivotal changes in the methods and mediums used for information exchange. These revolutions fall into two broad categories; systems and mediums. Systems, such as the alphabet or the binary code, serve as frameworks of symbolic representations. On the other hand, mediums like stone, paper or digital storage act as vessels for these symbols.| "
 ---
 
 # From Cave Paintings to Cyberspace
