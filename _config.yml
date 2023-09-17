@@ -4,7 +4,7 @@ plugins:
 - jekyll-toc # table of content
 
 title: Wolkenmilch
-description:  A cloud of curiosity and creation
+description:  a Cloud of Curiosity and Creation
 
 show_downloads: false # ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 # google_analytics: [Your Google Analytics tracking ID]

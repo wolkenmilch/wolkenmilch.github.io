@@ -2,3 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+
+.excerpt .toc, 
+.excerpt h1, 
+.excerpt h2 {
+    display: none;
+}
