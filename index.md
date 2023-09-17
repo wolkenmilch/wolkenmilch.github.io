@@ -1,5 +1,6 @@
-## Projects
+### Projects
 a Journey through my Creations
+---
 
 {% for project in site.data.projects %}
 
@@ -10,13 +11,15 @@ a Journey through my Creations
 
 {% endfor %}
 
-## Blog
+</br>
+
+### Blog
 Exploring Ideas and Insights
+---
 
 {% for post in site.posts %}
 
-  {{ post.title }}
-  
+  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
   {{ post.excerpt }}
   <a href="{{ post.url }}">Read More</a>
 
