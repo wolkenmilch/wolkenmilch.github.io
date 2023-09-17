@@ -15,8 +15,7 @@ Exploring Ideas and Insights
 
 {% for post in site.posts %}
 
-  {% assign stripped_excerpt = post.excerpt | remove: '* TOC' %}
-  {{ stripped_excerpt }}
+  {{ post.excerpt }}
   <a href="{{ post.url }}">Read More</a>
 
 {% endfor %}
