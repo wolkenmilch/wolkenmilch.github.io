@@ -4,7 +4,7 @@ title:  "Form Cave Paintings to Cyberspace"
 toc: true
 excerpt: "
 <div style='float: left; margin-right: 20px;'>
-    ![Information Word Cloud](/assets/pics/InfoWordCloud.png)
+    <img src='/assets/pics/InfoWordCloud.png'
 </div>
 <div style='overflow: hidden;'>
     The Impact of Information Revolutions on Society  
@@ -19,13 +19,14 @@ The Impact of Information Revolutions on Society
 
 ![Information Word Cloud](/assets/pics/InfoWordCloud.png)
 
-### Table of Content 
-
 <div id="toc-container">
     <h2 onclick="toggleTOC()">Table of Contents</h2>
     <div id="toc-content">
+        {% capture toc %}
         * TOC
         {:toc}
+        {% endcapture %}
+        {{ toc | markdownify }}
     </div>
 </div>
 
