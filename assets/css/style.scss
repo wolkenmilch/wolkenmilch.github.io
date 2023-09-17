@@ -3,18 +3,3 @@
 
 @import "{{ site.theme }}";
 
-/* Styles for foldable TOC */
-#toc-container {
-  border: 1px solid #ddd;
-  padding: 10px;
-  margin-bottom: 20px;
-}
-
-#toc-container h2 {
-  cursor: pointer;
-}
-
-#toc-content {
-  display: none; /* Initially hidden */
-  margin-top: 10px;
-}
