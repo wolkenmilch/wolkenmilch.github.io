@@ -38,9 +38,20 @@
         <nav>
           <a href="{{ site.baseurl }}/"> Back </a>
         </nav>
+
+        <div id="toc-container">
+          <h3 onclick="toggleTOC()">Table of Contents</h3>
+          <div id="toc-content">
+              {% toc %}
+          </div>
+        </div>
         {{ content }}
       </section>
     </div>
+
+
+
+  
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
@@ -53,6 +64,8 @@
     </div>
   </body>
 </html>
+
+
 
 <script>
   function toggleTOC() {
