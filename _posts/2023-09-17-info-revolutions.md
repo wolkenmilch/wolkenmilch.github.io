@@ -1,13 +1,15 @@
 ---
 layout: post
 title:  "Form Cave Paintings to Cyberspace"
-excerpt_separator: <!--more-->
 ---
 
 
 # From Cave Paintings to Cyberspace: The Impact of Information Revolutions on Society
 
 ![Information Word Cloud](/assets/pics/InfoWordCloud.png)
+
+* TOC
+{:toc}
 
 <details>
     <summary> Table of Contents </summary>
@@ -61,7 +63,7 @@ excerpt_separator: <!--more-->
 ## Introduction
 
 Throughout human history, the way we communicate, store, and disseminate information has undergone significant transformations. These shifts are often termed as "information revolutions," which can be defined as pivotal changes in the methods and mediums used for information exchange. These revolutions fall into two broad categories: systems and mediums. Systems, such as the alphabet or binary code, serve as frameworks of symbolic representations. On the other hand, mediums like papyrus, printing press, or digital storage act as vessels for these symbols.
-<!--more-->
+
 The interplay between new mediums and systems is intriguing; the advent of one often catalyzes the development of the other. For example, the invention of the printing press led to the widespread use of the Latin alphabet, and the development of the internet gave rise to new coding languages.
 
 Understanding these information revolutions is more than an academic exercise; it serves as a lens to view the broader contours of human progress. These revolutions have had a profound impact on various aspects of civilization, such as governance, trade, culture, and social interactions. They have accelerated scientific advancements, shaped global economies, and even influenced the outcomes of wars.
