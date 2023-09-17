@@ -1,0 +1,5 @@
+- name: Crypto Wave Dynamics
+  description: An agent-based financial market simulation that delves into the intricate dynamics of trading behaviors, highlighting the influence of psychological factors like FOMO on market outcomes.
+  organisation: University Leipzig
+  tools: NetLogo 6.2.0, Python 3.10
+  link: /CryptoWaveDynamics/
