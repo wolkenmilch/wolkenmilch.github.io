@@ -9,56 +9,14 @@ toc: true
 
 ![Information Word Cloud](/assets/pics/InfoWordCloud.png)
 
-* TOC
-{:toc}
+
 
 <details>
     <summary> Table of Contents </summary>
+    
+* TOC
+{:toc}
 
-1. [Introduction](#introduction)
-
-2. [Breaking the Silence - Emergence of Human Communication](#breaking-the-silence---emergence-of-human-communication)
-   - 2.1 [Cultural Capital in Prehistoric Societies](#cultural-capital-in-prehistoric-societies)
-
-3. [Ancient Civilizations: The Evolution of Writing and Recordkeeping](#ancient-civilizations-the-evolution-of-writing-and-recordkeeping)
-   - 3.1 [From Symbols to Scripts](#from-symbols-to-scripts)
-   - 3.2 [Alphabets as Chronicles of History and Myth](#alphabets-as-chronicles-of-history-and-myth)
-   - 3.3 [Writing Mediums - From Stone to Paper](#writing-mediums---from-stone-to-paper)
-   - 3.4 [Economics and the Power of Writing](#economics-and-the-power-of-writing)
-
-4. [The Pre-Machine Age: 3000 B.C. - 1450 A.D.](#the-pre-machine-age-3000-bc---1450-ad)
-   - 4.1 [The Abacus: Early Computational Brilliance](#the-abacus-early-computational-brilliance)
-   - 4.2 [The Power of Smoke: Signaling Danger](#the-power-of-smoke-signaling-danger)
-   - 4.3 [The Phoenician Alphabet: Streamlining Communication](#the-phoenician-alphabet-streamlining-communication)
-   - 4.4 [Greek Innovation: Adding Vowels for Clarity](#greek-innovation-adding-vowels-for-clarity)
-   - 4.5 [Libraries: Centers of Learning and Knowledge Preservation](#libraries-centers-of-learning-and-knowledge-preservation)
-   - 4.6 [Hindu–Arabic Numerals: Revolutionizing Numbers](#hinduarabic-numerals-revolutionizing-numbers)
-   - 4.7 [Economic Impact of Pre-Machine Age Innovations](#economic-impact-of-pre-machine-age-innovations)
-
-5. [Mechanical Age from 1450 to 1840](#mechanical-age-from-1450-to-1840)
-   - 5.1 [Unleashing the Printing Press: A Knowledge Tsunami](#unleashing-the-printing-press-a-knowledge-tsunami)
-   - 5.2 [The Renaissance: Birthplace of Brilliance](#the-renaissance-birthplace-of-brilliance)
-   - 5.3 [Evolution of Mechanical Computation](#evolution-of-mechanical-computation)
-   - 5.4 [Predecessors to Binary: Ancient Systems from Around the World](#predecessors-to-binary-ancient-systems-from-around-the-world)
-   - 5.5 [The Binary System: Paving the Way for Innovations](#the-binary-system-paving-the-way-for-innovations)
-   - 5.6 [Financial Innovations and the Rise of Banking](#financial-innovations-and-the-rise-of-banking)
-
-6. [Electromechanical Age (1840 - 1940)](#electromechanical-age-1840---1940)
-   - 6.1 [Industrial Revolution: The Information Catalyst](#industrial-revolution-the-information-catalyst)
-   - 6.2 [From Telegraph to Mass Media](#from-telegraph-to-mass-media)
-   - 6.3 [A New Economic Frontier](#a-new-economic-frontier)
-
-7. [Electronic Age from 1940 Onwards](#electronic-age-from-1940-onwards)
-   - 7.1 [Rise of Computers](#rise-of-computers)
-   - 7.2 [The Internet: Connecting the World](#the-internet-connecting-the-world)
-   - 7.3 [The Digital Economy: A New Frontier](#the-digital-economy-a-new-frontier)
-
-8. [Conclusion](#conclusion)
-   - 8.1 [Recurring Patterns](#recurring-patterns)
-   - 8.2 [Technological Surprise](#technological-surprises) 
-   - 8.3 [The Road Ahead: Embracing Change](#the-road-ahead-embracing-change)   
-
-9. [References](#references)
 </details>
 
 ## Introduction
@@ -454,20 +412,20 @@ The 20th century marked a significant shift in the realm of computing, transitio
     </div>
 </div>
 
-#### 1st Generation (1940s)
+**1st Generation (1940s)**
 
 The dawn of the electronic age in computing began with the first programmable binary calculating machine in 1941, developed by Konrad Zuse. This era was characterized by the use of vacuum tubes and magnetic drums for data storage. The machines were massive, consumed a lot of power, and were prone to frequent breakdowns. However, they marked the beginning of a new age in computing.
 
 
-#### 2nd Generation (1950s-1960s)
+**2nd Generation (1950s-1960s)**
 
 The second generation saw the replacement of vacuum tubes with transistors, making computers smaller, faster, cheaper, and more energy-efficient. This era also witnessed the replacement of punched cards with magnetic tapes for data storage. A significant development during this period was the introduction of the programming language FORTRAN, which revolutionized the world of computing by allowing humans to communicate more easily with machines.
 
-#### 3rd Generation (1960s-1970s)
+**3rd Generation (1960s-1970s)**
 
 The third generation brought about another significant shift with the replacement of transistors by integrated circuits and chips. This miniaturization allowed for even more powerful and compact machines. The emergence of operating systems became prominent during this period, simplifying the user-computer interaction. Moreover, the programming language BASIC was introduced, further democratizing the world of computing.
 
-#### 4th Generation (1970s-Present)
+**4th Generation (1970s-Present)**
 
 The fourth generation witnessed the birth of CPUs and the personal computer. Apple II, introduced in the late 1970s, became one of the first successful consumer devices, marking a significant milestone in making computing accessible to the masses. This era also saw the introduction of the first Graphical User Interface (GUI), which transformed the way users interacted with computers, making them more user-friendly and intuitive.
 
