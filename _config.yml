@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: My Projects
-description: An incomplete overview of my projects and other works.
+description: An overview of my projects and other works.
 
 show_downloads: false # ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 # google_analytics: [Your Google Analytics tracking ID]
