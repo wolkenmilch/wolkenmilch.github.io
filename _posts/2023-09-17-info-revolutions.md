@@ -9,15 +9,8 @@ toc: true
 
 ![Information Word Cloud](/assets/pics/InfoWordCloud.png)
 
-
-
-<details>
-    <summary> Table of Contents </summary>
-    
 * TOC
 {:toc}
-
-</details>
 
 ## Introduction
 
