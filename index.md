@@ -15,6 +15,7 @@ Exploring Ideas and Insights
 
 {% for post in site.posts %}
 
+  {{ post.title }}
   {{ post.excerpt }}
   <a href="{{ post.url }}">Read More</a>
 
