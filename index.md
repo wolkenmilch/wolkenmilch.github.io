@@ -13,6 +13,7 @@ a Journey through my Creations
 {% endfor %}
 
 ---
+---
 
 ### Blog
 Exploring Ideas and Insights

@@ -19,6 +19,16 @@ The Impact of Information Revolutions on Society
 
 ![Information Word Cloud](/assets/pics/InfoWordCloud.png)
 
+### Table of Content 
+
+<div id="toc-container">
+    <h2 onclick="toggleTOC()">Table of Contents</h2>
+    <div id="toc-content">
+        * TOC
+        {:toc}
+    </div>
+</div>
+
 ## Introduction
 
 Throughout human history, the way we communicate, store, and disseminate information has undergone significant transformations. These shifts are often termed as "information revolutions," which can be defined as pivotal changes in the methods and mediums used for information exchange. These revolutions fall into two broad categories: systems and mediums. Systems, such as the alphabet or the binary code, serve as frameworks of symbolic representations. On the other hand, mediums like stone, paper or digital storage act as vessels for these symbols.
@@ -28,11 +38,6 @@ The interplay between new mediums and systems is intriguing; the advent of one o
 Understanding these information revolutions is more than an academic exercise; it serves as a lens to view the broader contours of human progress. These revolutions have had a profound impact on various aspects of civilization, such as governance, trade, culture, and social interactions. They have accelerated scientific advancements, shaped global economies, and even influenced the outcomes of wars.
 
 By studying these shifts, we can gain valuable insights into the changing dynamics of power, the dissemination of knowledge, and the evolving nature of human connectivity. Recognizing and appreciating these changes equips us to better navigate the present and prepare for the future, ensuring that we remain adaptive, resilient, and forward-looking as a civilization.
-
-### Table of Content 
-
-* TOC
-{:toc}
 
 ## Breaking the Silence - Emergence of Human Communication
 
