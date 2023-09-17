@@ -1,4 +1,5 @@
 ## Projects
+a Journey through my Creations
 
 {% for project in site.data.projects %}
 
@@ -9,11 +10,13 @@
 
 {% endfor %}
 
-## Posts
+## Blog
+Exploring Ideas and Insights
 
 {% for post in site.posts %}
 
-  {{ post.excerpt }}
+  {% assign stripped_excerpt = post.excerpt | remove: '* TOC' %}
+  {{ stripped_excerpt }}
   <a href="{{ post.url }}">Read More</a>
 
 {% endfor %}
