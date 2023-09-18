@@ -50,7 +50,6 @@ body, html {
 
 @media print, screen and (max-width: 960px) {
   header {
-    width: 100%; /* Set the header width to 100% for small screens */
     height: auto; /* Adjust the header height automatically */
     position: relative; /* Reset the fixed position */
   }
