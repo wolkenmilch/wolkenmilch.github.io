@@ -1,7 +1,8 @@
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-- jekyll-toc # table of content
+- jekyll-remote-theme
+# - jekyll-toc # table of content
 
 title: Wolkenmilch
 description:  a Cloud of Curiosity and Creation
