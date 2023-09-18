@@ -58,23 +58,6 @@
       {% endif %}
       <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
     </footer>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}">
-      document.addEventListener('DOMContentLoaded', function() {
-        var tocItems = document.querySelectorAll("#my_toc > li");
-
-        tocItems.forEach(function(item) {
-          item.addEventListener('click', function() {
-            var sublist = item.querySelector('ul');
-            if (sublist) {
-                if (sublist.style.display === 'none' || sublist.style.display === '') {
-                    sublist.style.display = 'block';
-                } else {
-                    sublist.style.display = 'none';
-                }
-            }
-          });
-        });
-      });
-    </script>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
   </body>
 </html>

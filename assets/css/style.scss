@@ -20,7 +20,7 @@ body, html {
 }
 
 #my_toc {
-  max-height: 100vh;
+  max-height: 30vh;
   overflow-y: auto;
   scrollbar-width: thin;
   scrollbar-color: #888 #f5f5f5;
@@ -28,7 +28,10 @@ body, html {
 
 #my_toc li ul {
   display: none;
-  
+}
+
+#my_toc li:hover > ul {
+  display: block;
 }
 
 /* Webkit browsers like Chrome, Safari */
