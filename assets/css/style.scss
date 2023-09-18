@@ -34,12 +34,6 @@ body, html {
   margin: 0;
 }
 
-.wrapper {
-  min-height: 100%;
-  margin-bottom: -50px; /* Negative value of footer height */
-  padding-bottom: 50px; /* Same value as footer height */
-}
-
 .wrapper::after {
   content: "";
   display: table;
@@ -47,8 +41,6 @@ body, html {
 }
 
 footer {
-  height: 50px; /* Set to your footer's height */
-  clear: both;
   width: 100%;
   float: none;
   position: fixed;
