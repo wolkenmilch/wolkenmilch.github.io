@@ -52,6 +52,16 @@ body, html {
   header {
     height: auto; /* Adjust the header height automatically */
     position: relative; /* Reset the fixed position */
+    width: 50vw;
+    padding-right: 30vw;
+  }
+
+  header a small {
+    display: outside;
+  }
+
+  header ul {
+    position: relative;
   }
 
   #my_toc {
