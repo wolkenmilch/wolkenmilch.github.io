@@ -6,7 +6,7 @@ excerpt: "
 **The Impact of Information Revolutions on Society**  
 
 <div style='text-align: left;'>
-    <img src='/assets/pics/InfoWordCloud.png' style='max-width: 30%;float: left; margin-right: 10px;'>
+    <img class='responsive-img' src='/assets/pics/InfoWordCloud.png' style='max-width: 30%;float: left; margin-right: 10px;'>
 </div>
 
 Throughout human history, the way we communicate, store, and disseminate information has undergone significant transformations. These shifts are often termed as *information revolutions*, which can be defined as pivotal changes in the methods and mediums used for information exchange. These revolutions fall into two broad categories; systems and mediums. Systems, such as the alphabet or the binary code, serve as frameworks of symbolic representations. On the other hand, mediums like stone, paper or digital storage act as vessels for these symbols.
@@ -33,7 +33,7 @@ By studying these shifts, we can gain valuable insights into the changing dynami
 ## Breaking the Silence - Emergence of Human Communication
 
 <div style="text-align: left;">
-    <img src="https://www.anred.org/wp-content/uploads/2019/04/hacha2.jpg" title="dancing aboriginal australians" style="max-width: 50%;float: right; margin-left: 10px;">
+    <img class="responsive-img" src="https://www.anred.org/wp-content/uploads/2019/04/hacha2.jpg" title="dancing aboriginal australians" style="max-width: 50%;float: right; margin-left: 10px;">
 </div>
 
 The realm of animal communication, though intricate in its own right, has inherent limitations. Most animal communication methods are instinctual, driven by immediate needs or reactions to the environment. For instance, a specific bird call might indicate the presence of a predator, while a particular dance in bees can pinpoint the location of nectar. These methods, while effective, lack the depth and versatility found in human communication.
@@ -93,7 +93,7 @@ The materials chosen by humans for inscribing their thoughts have also evolved c
 ### Economics and the Power of Writing
 
 <div style="text-align: left;">
-    <img src="https://images.metmuseum.org/CRDImages/an/original/DP-15732-002.jpg" title="cuneiform table carved into clay" style="max-width: 50%; float: left; margin: 10px;">
+    <img class="responsive-img" src="https://images.metmuseum.org/CRDImages/an/original/DP-15732-002.jpg" title="cuneiform table carved into clay" style="max-width: 50%; float: left; margin: 10px;">
 </div>
 
 The emergence of writing systems such as cuneiform and hieroglyphics exerted a transformative influence on the economies of ancient civilizations. For instance, cuneiform script in early Mesopotamia was initially employed to document economic activities like trade transactions and tax collections. This systematic approach allowed for a more transparent and organized economic structure, minimizing the risk of fraudulent activities and disputes. In Ancient China, oracle bone inscriptions were utilized for divination, which likely had implications for agricultural planning and thus economic stability. In the Andean region of South America, the use of quipu—knotted strings—served as a unique method for archiving transactions and calculations, thereby facilitating commerce among Andean cultures.
@@ -107,7 +107,7 @@ The pre-machine age, spanning over four millennia, was a testament to human inge
 ### The Abacus: Early Computational Brilliance
 
 <div style="text-align: left;">
-    <img src="https://www.publicdomainpictures.net/pictures/50000/velka/abacus.jpg" title="abacus" style="max-width: 50%; float: right; margin: 10px;">
+    <img class="responsive-img" src="https://www.publicdomainpictures.net/pictures/50000/velka/abacus.jpg" title="abacus" style="max-width: 50%; float: right; margin: 10px;">
 </div>
 
 The abacus, developed between 2700 to 2300 BC, stands as a symbol of early computational brilliance, simplifying arithmetic long before the advent of modern calculators. Its origins can be traced back to ancient civilizations where it began as a simple counting board or table. Over time, its design evolved, and by the time it reached China, it took on the form most are familiar with today: a frame with rods or wires, each strung with movable beads or marbles. These beads represent different numerical values and can be moved to perform arithmetic operations. The abacus's design made it not only a practical tool for calculations but also a portable one, allowing merchants, scholars, and others to carry it with them and use it wherever they went.
@@ -119,7 +119,7 @@ By 1800 BC, the art of sending messages through smoke signals emerged, offering 
 ### The Phoenician Alphabet: Streamlining Communication
 
 <div style="text-align: left;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Phoenician_alphabet.svg/667px-Phoenician_alphabet.svg.png" title="Phoenician Alphabets" style="max-width: 50%; float: left; margin: 10px;">
+    <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Phoenician_alphabet.svg/667px-Phoenician_alphabet.svg.png" title="Phoenician Alphabets" style="max-width: 50%; float: left; margin: 10px;">
 </div>
 
 The Phoenician alphabet, introduced around 1100 BC, was a groundbreaking development in the annals of human communication. Consisting of 22 consonant characters, it eliminated the need for cumbersome pictographs and ideograms that characterized earlier writing systems. This streamlined form of communication was not only efficient but also versatile, making it easier to learn and adapt. As a result, the Phoenician script laid the foundation for many subsequent alphabets, including Greek, Latin, and even Aramaic, from which the Hebrew and Arabic scripts evolved.
@@ -135,7 +135,7 @@ The emphasis on knowledge preservation and dissemination in Greek society led to
 ### Hindu–Arabic Numerals: Revolutionizing Numbers
 
 <div style="text-align: left;">
-    <img src="https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/282/2016/01/20155209/Fig5_1_19.png" title="Development of the Hindu–Arabic numeral system" style="max-width: 50%; float: right; margin: 10px;">
+    <img class="responsive-img" src="https://s3-us-west-2.amazonaws.com/courses-images-archive-read-only/wp-content/uploads/sites/282/2016/01/20155209/Fig5_1_19.png" title="Development of the Hindu–Arabic numeral system" style="max-width: 50%; float: right; margin: 10px;">
 </div>
 
 The introduction of the 1-9 digit system, followed by the groundbreaking concept of "zero" by 875 A.D., marked a significant turning point in the realm of numerical representation and computation. This system, known as the Hindu–Arabic numeral system, is a decimal place-value system that employs a zero glyph, as seen in numbers like "205". Its origins can be traced back to the Indian Brahmi numerals. By the 8th to 9th centuries, the full system had emerged and was first described outside India in Al-Khwarizmi's "On the Calculation with Hindu Numerals" around 825 A.D.. The numeral system's spread to the Middle East and then to Europe signifies a profound cultural exchange. The system was mentioned in Syria in 662 AD and was later adopted by the Arabs. The Persian mathematician Al-Khwarizmi and the Arab Al-Kindi played pivotal roles in disseminating this knowledge in the Middle East. By the end of the 7th century, decimal numbers began to appear in inscriptions in Southeast Asia as well as in India.
@@ -159,7 +159,7 @@ In summary, the innovations of the pre-machine age laid the groundwork for more 
 ### Unleashing the Printing Press: A Knowledge Tsunami
 
 <div style="text-align: left;">
-    <img src="https://cdn.pixabay.com/photo/2014/11/30/19/39/press-552026_960_720.jpg" title="Gutenberg press" style="max-width: 50%; float: left; margin: 10px;">
+    <img class="responsive-img" src="https://cdn.pixabay.com/photo/2014/11/30/19/39/press-552026_960_720.jpg" title="Gutenberg press" style="max-width: 50%; float: left; margin: 10px;">
 </div>
 
 The invention of printing is often associated with Johannes Gutenberg's press in the 15th century, but the origins of this revolutionary technology trace back to East Asia, particularly China. Printing in East Asia originated during the Han dynasty (220 BCE – 206 CE), evolving from ink rubbings made on paper or cloth from texts on stone tables. One of the most significant advancements in this domain was the development of mechanical woodblock printing on paper, which began in China during the Tang dynasty before the 8th century CE.
@@ -237,10 +237,10 @@ The history of mechanical computing devices dates back thousands of years, with 
             <img class="responsive-img" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.boA_Krb_gWEsI7JI4CXXqwHaEU%26pid%3DApi&f=1&ipt=864e40df65ac31de0e5d7aa9a4e3a129e0618b4d2db181221e0349d345fb9fdc&ipo=images" title="Slide Rule" style="max-width: 100%; height: auto;">
         </div>
         <div class="responsive-img" style="flex: 50%;">
-            <img src="https://3.bp.blogspot.com/-TboqGSZoSso/T17yeOI7SZI/AAAAAAAADCU/QwtQZI8_AcA/s1600/pascalina.jpg" title="Pascaline" style="max-width: 100%; height: auto;">
+            <img class="responsive-img" src="https://3.bp.blogspot.com/-TboqGSZoSso/T17yeOI7SZI/AAAAAAAADCU/QwtQZI8_AcA/s1600/pascalina.jpg" title="Pascaline" style="max-width: 100%; height: auto;">
         </div>
         <div class="responsive-img" style="flex: 50%;">
-            <img src="https://c1.staticflickr.com/1/125/323805190_9c6682c694_b.jpg" title="Difference Machine" style="max-width: 100%; height: auto;">
+            <img class="responsive-img" src="https://c1.staticflickr.com/1/125/323805190_9c6682c694_b.jpg" title="Difference Machine" style="max-width: 100%; height: auto;">
         </div>
     </div> 
 </div>
@@ -268,7 +268,7 @@ In conclusion, the development of mechanical computing devices marked a signific
 The binary system, often referred to as the base-2 numeral system, is a method of mathematical expression that uses only two symbols: "0" and "1". This system is foundational to modern computing due to its straightforward implementation in digital electronic circuitry using logic gates. The simplicity of the language and its noise immunity in physical implementation make it the preferred system for almost all modern computers and computer-based devices.
 
 <div style="text-align: left;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Diagram_of_I_Ching_hexagrams_owned_by_Gottfried_Wilhelm_Leibniz%2C_1701.jpg" title="A diagram of I Ching hexagrams sent to Leibniz from Joachim Bouvet. The Arabic numerals were added by Leibniz." style="max-width: 50%; float: left; margin: 10px;">
+    <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Diagram_of_I_Ching_hexagrams_owned_by_Gottfried_Wilhelm_Leibniz%2C_1701.jpg" title="A diagram of I Ching hexagrams sent to Leibniz from Joachim Bouvet. The Arabic numerals were added by Leibniz." style="max-width: 50%; float: left; margin: 10px;">
 </div>
 
 Gottfried Wilhelm Leibniz, a prominent German polymath from Leipzig, is credited with the modern development of the binary system in the Western world. In his article "Explication de l'Arithmétique Binaire" (published in 1703), Leibniz detailed a system that used only the characters "1" and "0". He was inspired by the ancient Chinese text, the I Ching, which he believed showcased a form of binary calculus. As a Sinophile, Leibniz saw the hexagrams of the I Ching as evidence of binary calculus and believed that the binary numbers were symbolic of the Christian idea of creatio ex nihilo or creation out of nothing. He even associated the binary system with the Christian concept of creation, emphasizing the idea that the world was created from nothing by God's almighty power.
@@ -282,7 +282,7 @@ Interestingly, while Leibniz's contributions to various subjects were vast and i
 The binary system, with its simple representation using only two elements, 0 and 1, laid the groundwork for a new era in data storage and processing. This foundational concept, introduced by Leibniz, would eventually lead to the development of the punched card in the 18th century. The punched card, a piece of stiff paper that contains digital information represented by the presence or absence of holes in predefined positions, became a pivotal innovation in data storage and processing.
 
 <div style="text-align: left;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DMM_29263ab_Jacquardwebstuhl.jpg" title="Jacquardwebstuhl" style="max-width: 50%; float: left; margin: 10px;">
+    <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DMM_29263ab_Jacquardwebstuhl.jpg" title="Jacquardwebstuhl" style="max-width: 50%; float: left; margin: 10px;">
 </div>
 
 One of the earliest applications of punched cards was in the realm of music and entertainment. Barrel organs, which were popular during the 18th and 19th centuries, utilized a system of pinned barrels (an early form of the punched card) to play specific tunes. As the barrel rotated, the pins would interact with the organ's mechanism, producing musical notes corresponding to the placement of the pins. This mechanism can be seen as an early representation of binary logic, where the presence or absence of a pin (1 or 0) determined the musical output.
@@ -300,7 +300,7 @@ The Mechanical Age, spanning from 1450 to 1840, was not just a period of technol
 The Gutenberg Press, introduced in 1455, was a game-changer for the economy. It democratized information, breaking the monopoly of the literate elite and empowering the emerging middle class. This had a ripple effect on trade and commerce. The press facilitated the spread of commercial knowledge, including manuals on accounting, trade laws, and foreign languages. This newfound access to information accelerated mercantile activities and led to the rise of a business-savvy middle class.
 
 <div style="text-align: left;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/MEDICI_TAPESTRY.jpg" title="The Medici Wedding Tapestry (1589)" style="max-width: 50%; float: right; margin: 10px;">
+    <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/5/57/MEDICI_TAPESTRY.jpg" title="The Medici Wedding Tapestry (1589)" style="max-width: 50%; float: right; margin: 10px;">
 </div>
 
 **Banking and the House of Medici**
@@ -326,7 +326,7 @@ In summary, the Mechanical Age was a period of profound economic transformation,
 ### Industrial Revolution: The Information Catalyst
 
 <div style="text-align: left;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Jacob_Leupold_Steam_engine_1720.jpg" title="Jacob Leupold steam engine (1720)" style="max-width: 50%; float: left; margin: 10px;">
+    <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Jacob_Leupold_Steam_engine_1720.jpg" title="Jacob Leupold steam engine (1720)" style="max-width: 50%; float: left; margin: 10px;">
 </div>
 
 The Industrial Revolution, spanning from approximately 1760 to 1840, wasn't just a shift in manufacturing and production—it was a monumental leap in the way information was exchanged, processed, and utilized. This transformative era was both a result of and a catalyst for advancements in information dissemination. Before the onset of the Industrial Revolution, information was largely localized. However, the Renaissance had set the stage by fostering a culture of inquiry and knowledge sharing. The printing press, a revolutionary invention of the 15th century, democratized access to information, allowing ideas to be disseminated on an unprecedented scale. This widespread availability of knowledge laid the groundwork for the innovations that would fuel the Industrial Revolution.
@@ -368,7 +368,7 @@ The radio marked another significant advancement. In 1898, the first message tra
 The term 'Mass Media' first appeared in the USA in 1920, marking the dawn of an era where information could be disseminated to vast audiences simultaneously. This era witnessed the rise of newspapers, radio broadcasts, and later, television, which played pivotal roles in shaping public opinion, culture, and politics. However, with the power to influence came the potential for misuse. The mass media's ability to reach vast audiences made it a potent tool in the hands of those seeking to manipulate public opinion.
 
 <div style="text-align: left;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/c/ce/1936~Volksempfaenger.jpg" title="Propaganda" style="max-width: 50%; float: left; margin: 10px;">
+    <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/en/c/ce/1936~Volksempfaenger.jpg" title="Propaganda" style="max-width: 50%; float: left; margin: 10px;">
 </div>
 
 For instance, in the early 20th century, totalitarian regimes recognized the power of mass media as a means to control and influence their populations. Propaganda became a standard tool, with state-controlled media outlets broadcasting messages that supported the regime's ideologies and suppressed dissenting voices. The Nazi regime in Germany, for example, used radio broadcasts, films, and newspapers to propagate its messages, fostering a culture of anti-Semitism and promoting its vision of Aryan supremacy.
@@ -386,7 +386,7 @@ Financing and banking also saw a transformation. The growth demanded more capita
 The advent of the telegraph and later, mass media, had profound economic implications. The telegraph dramatically reduced the time and cost of transmitting information, facilitating quicker decision-making in business and finance. Samuel Morse's system became the international standard by 1865, making it easier for businesses to communicate across borders. The telephone further revolutionized communication, allowing for direct voice communication, which had its own set of economic benefits.
 
 <div style="text-align: left;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/4/4a/WOTW-NYT-headline.jpg" title="War of the Worlds Radio Show Impact" style="max-width: 50%; float: left; margin: 10px;">
+    <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/en/4/4a/WOTW-NYT-headline.jpg" title="War of the Worlds Radio Show Impact" style="max-width: 50%; float: left; margin: 10px;">
 </div>
 
 The term 'Mass Media' appeared in the USA in 1920, marking a new era where information could be disseminated to vast audiences. This had both positive and negative economic impacts. On one hand, it opened up new avenues for advertising and marketing, creating an entire industry around it. On the other hand, the power to influence public opinion also meant that mass media could be used to manipulate markets and even electoral outcomes.
@@ -399,8 +399,8 @@ In summary, the electromechanical age from 1840 to 1940 had a profound impact on
 
 ### Rise of Computers
 
-The 20th century marked a significant shift in the realm of computing, transitioning from mechanical aids to electronic marvels. This evolution not only transformed the way we processed and stored information but also how we disseminated it.
-
+The 20th century marked a significant shift in the realm of computing, transitioning from mechanical aids to electronic marvels. This evolution not only transformed the way we processed and stored information but also how we disseminated it.  
+  
 <div style="display: flex; margin: 10px;  max-width: 100%;">
     <div style="flex: 3;">
         <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Zuse_Z1-2.jpg" title="Zuse Z1" style="height: 100%;">
@@ -412,7 +412,8 @@ The 20th century marked a significant shift in the realm of computing, transitio
         <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Philco_Surface_Barrier_transistor%3D1953.jpg" title="Philco Surface Barrier transistor" style="height:  100%;">
     </div>
 </div>
-
+  
+  
 **1st Generation (1940s)**
 
 The dawn of the electronic age in computing began with the first programmable binary calculating machine in 1941, developed by Konrad Zuse. This era was characterized by the use of vacuum tubes and magnetic drums for data storage. The machines were massive, consumed a lot of power, and were prone to frequent breakdowns. However, they marked the beginning of a new age in computing.
@@ -439,7 +440,7 @@ The digital age, characterized by the rise of computers, has had profound implic
 The digital revolution, marked by the rise of the internet, has been a transformative force, reshaping the way we communicate, work, and live. The early phases of the internet can be traced back to the 1960s when the foundational technical basics were laid. Initially, the internet was a project driven by military needs. However, by the 1970s, its potential for academic research became evident, leading to a shift from military to academic applications.
 
 <div style="text-align: left;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/NCSA_Mosaic_Browser_Screenshot.png" title="First Browser Mosaic" style="max-width: 50%; float: left; margin: 10px;">
+    <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/NCSA_Mosaic_Browser_Screenshot.png" title="First Browser Mosaic" style="max-width: 50%; float: left; margin: 10px;">
 </div>
 
 The internet's commercial phase began in the 90s, marking a significant turning point in its evolution. This period saw the internet transition from a tool for researchers and academics to a global platform accessible to the general public. The impact of this transition was profound, influencing globalization, commerce, and the accessibility of information. The internet's role in modern warfare also evolved, with cyber threats emerging as a new domain of conflict.
