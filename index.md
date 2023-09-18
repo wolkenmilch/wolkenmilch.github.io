@@ -1,4 +1,4 @@
-### Projects - a Journey through my Creations
+# Projects - a Journey through my Creations
 
 ---
 
@@ -11,9 +11,10 @@
 {% endfor %}
 
 ---
+   
 ---
 
-### Blog - Exploring Ideas and Insights
+# Blog - Exploring Ideas and Insights
 
 ---
 
