@@ -13,6 +13,12 @@ body, html {
   margin: 0;
 }
 
+footer {
+  float:none;
+  position:static;
+  width:auto;
+}
+
 .wrapper::after {
   content: "";
   display: table;
