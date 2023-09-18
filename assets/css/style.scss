@@ -3,3 +3,7 @@
 
 @import "{{ site.theme }}";
 
+.responsive-img {
+  max-width: 100%;
+  height: auto;
+}

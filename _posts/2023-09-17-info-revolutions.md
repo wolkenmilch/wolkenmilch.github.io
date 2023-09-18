@@ -57,12 +57,12 @@ Together, language and oral traditions were not just tools for communication; th
 
 ## Ancient Civilizations: The Evolution of Writing and Recordkeeping
 
-<div style="display: flex; max-width: 100%;">
+<div style="display: flex;">
     <div style="flex: 50%;">
-        <img src="https://global-geography.org/attach/Geography/Europe/Spain/Pictures/Picos_de_Europa/Altamira_-_Cave_Painting_2/B061_Altamira_Malerei_Altamira_Malerei.jpg" title="scientists examine cave paintings">
+        <img class="responsive-img" src="https://global-geography.org/attach/Geography/Europe/Spain/Pictures/Picos_de_Europa/Altamira_-_Cave_Painting_2/B061_Altamira_Malerei_Altamira_Malerei.jpg" title="scientists examine cave paintings">
     </div>
     <div style="flex: 50%;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/NEWSPAPER_ROCK_IS_A_LARGE_CLIFF_MURAL_OF_ANCIENT_INDIAN_PETROGLYPHS_AND_PICTOGRAPHS%2C_REMARKABLE_FOR_THE_CLARITY_OF..._-_NARA_-_545671.jpg" title="petroglyphs">
+        <img  class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/NEWSPAPER_ROCK_IS_A_LARGE_CLIFF_MURAL_OF_ANCIENT_INDIAN_PETROGLYPHS_AND_PICTOGRAPHS%2C_REMARKABLE_FOR_THE_CLARITY_OF..._-_NARA_-_545671.jpg" title="petroglyphs">
     </div>
 </div>
 
