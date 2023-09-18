@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "From Cave Paintings to Cyberspace"
+logo: /assets/img/InfoWordCloud.png
 excerpt: "
 **The Impact of Information Revolutions on Society**  
 
