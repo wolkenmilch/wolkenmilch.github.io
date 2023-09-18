@@ -72,10 +72,10 @@ The inception of human expression and documentation can be traced back to rudime
 
 <div style="display: flex; max-width: 100%;">
     <div style="flex: 60%;">
-        <img src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/321937/1575274/main-image" title="cuneiform carved into clay">
+        <img class="responsive-img" src="https://collectionapi.metmuseum.org/api/collection/v1/iiif/321937/1575274/main-image" title="cuneiform carved into clay">
     </div>
     <div style="flex: 40%;">
-        <img src="https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd20-035007-num-tong.jpg?bg=transparent&con=3&cs=srgb&dpr=1&fm=jpg&ixlib=php-3.1.0&q=80&usm=15&vib=3&w=1300&s=8fb7308900aa18432469e16d421900eb" title="Hieroglyphics text illustration from Pantheon Egyptien">
+        <img class="responsive-img" src="https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/pd20-035007-num-tong.jpg?bg=transparent&con=3&cs=srgb&dpr=1&fm=jpg&ixlib=php-3.1.0&q=80&usm=15&vib=3&w=1300&s=8fb7308900aa18432469e16d421900eb" title="Hieroglyphics text illustration from Pantheon Egyptien">
     </div>
 </div>
 
@@ -187,10 +187,10 @@ The printing press's introduction in Europe heralded the era of mass communicati
 
 <div style="display: flex; max-width: 100%;">
     <div style="flex: 70%;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg" title="Gutenberg Bible">
+        <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg" title="Gutenberg Bible">
     </div>
     <div style="flex: 31%;">
-        <img src="https://projects.history.qmul.ac.uk/thehistorian/wp-content/uploads/sites/24/2020/01/malleus-maleficarum.jpg" title="malleus-maleficarum">
+        <img class="responsive-img" src="https://projects.history.qmul.ac.uk/thehistorian/wp-content/uploads/sites/24/2020/01/malleus-maleficarum.jpg" title="malleus-maleficarum">
     </div>
 </div>
 
@@ -234,12 +234,12 @@ The history of mechanical computing devices dates back thousands of years, with 
 <div style="text-align: left; max-width: 50%; float: right; margin: 10px;">
     <div style="display: flex; flex-direction: column;">
         <div style="flex: 50%;">
-            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.boA_Krb_gWEsI7JI4CXXqwHaEU%26pid%3DApi&f=1&ipt=864e40df65ac31de0e5d7aa9a4e3a129e0618b4d2db181221e0349d345fb9fdc&ipo=images" title="Slide Rule" style="max-width: 100%; height: auto;">
+            <img class="responsive-img" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.boA_Krb_gWEsI7JI4CXXqwHaEU%26pid%3DApi&f=1&ipt=864e40df65ac31de0e5d7aa9a4e3a129e0618b4d2db181221e0349d345fb9fdc&ipo=images" title="Slide Rule" style="max-width: 100%; height: auto;">
         </div>
-        <div style="flex: 50%;">
+        <div class="responsive-img" style="flex: 50%;">
             <img src="https://3.bp.blogspot.com/-TboqGSZoSso/T17yeOI7SZI/AAAAAAAADCU/QwtQZI8_AcA/s1600/pascalina.jpg" title="Pascaline" style="max-width: 100%; height: auto;">
         </div>
-        <div style="flex: 50%;">
+        <div class="responsive-img" style="flex: 50%;">
             <img src="https://c1.staticflickr.com/1/125/323805190_9c6682c694_b.jpg" title="Difference Machine" style="max-width: 100%; height: auto;">
         </div>
     </div> 
@@ -343,13 +343,13 @@ The Industrial Revolution wasn't just about producing goods; it was about connec
 
 <div style="display: flex; margin: 10px; max-width: 100%;">
     <div style="flex: 1;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/OptischerTelegraf.jpg" title="Optischer Telegraf" style="height: 100%;">
+        <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/9/94/OptischerTelegraf.jpg" title="Optischer Telegraf" style="height: 100%;">
     </div>
     <div style="flex: 1;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Soemmerring_1810_telegraph_overview.jpg" title="Georges-Louis Le Sage early electric telegraph (1774)" style="height:  100%;">
+        <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Soemmerring_1810_telegraph_overview.jpg" title="Georges-Louis Le Sage early electric telegraph (1774)" style="height:  100%;">
     </div>
         <div style="flex: 1;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Alexander_Graham_Bell%27s_Telephone_Patent_Drawing_and_Oath_-_NARA_-_302052_%28page_2%29.jpg" title="Bell's patent drawing of the telefone" style="height:  100%;">
+        <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Alexander_Graham_Bell%27s_Telephone_Patent_Drawing_and_Oath_-_NARA_-_302052_%28page_2%29.jpg" title="Bell's patent drawing of the telefone" style="height:  100%;">
     </div>
 </div>
 
@@ -403,13 +403,13 @@ The 20th century marked a significant shift in the realm of computing, transitio
 
 <div style="display: flex; margin: 10px;  max-width: 100%;">
     <div style="flex: 3;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Zuse_Z1-2.jpg" title="Zuse Z1" style="height: 100%;">
+        <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Zuse_Z1-2.jpg" title="Zuse Z1" style="height: 100%;">
     </div>
     <div style="flex: 2.1;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/NXP_PCF8577C_LCD_driver_with_I%C2%B2C_%28Colour_Corrected%29.jpg" title="Integrated Circuit" style="height:  100%;">
+        <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/8/89/NXP_PCF8577C_LCD_driver_with_I%C2%B2C_%28Colour_Corrected%29.jpg" title="Integrated Circuit" style="height:  100%;">
     </div>
     <div style="flex: 1.7;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Philco_Surface_Barrier_transistor%3D1953.jpg" title="Philco Surface Barrier transistor" style="height:  100%;">
+        <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Philco_Surface_Barrier_transistor%3D1953.jpg" title="Philco Surface Barrier transistor" style="height:  100%;">
     </div>
 </div>
 
