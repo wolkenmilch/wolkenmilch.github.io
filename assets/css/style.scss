@@ -62,12 +62,8 @@ footer {
     padding-right: 30vw;
   }
 
-  header a small {
-    display: inline-flex;
-  }
-
   header ul {
-    position: relative;
+    position: static;
   }
 
   #my_toc {
@@ -82,10 +78,14 @@ footer {
 
   header {
     padding:0;
+    height: auto; /* Adjust the header height automatically */
+    position: relative; /* Reset the fixed position */
+    width: 100vw;
+    padding-right: 0vw;
   }
 
-  header ul, header p.view {
-    position:static;
+  header ul {
+    position: static;
   }
 
 }
