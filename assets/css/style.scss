@@ -59,7 +59,7 @@ footer {
     height: auto; /* Adjust the header height automatically */
     position: relative; /* Reset the fixed position */
     width: 50vw;
-    padding-right: 30vw;
+    padding-right: 25px;
   }
 
   header ul {
@@ -67,7 +67,8 @@ footer {
   }
 
   #my_toc {
-    max-height: calc(100vh - 100px); /* This ensures the TOC does not take up the entire screen height. Adjust the '100px' as necessary based on other header elements */
+    max-height: 50vh; /* This ensures the TOC does not take up the entire screen height. Adjust the '100px' as necessary based on other header elements */
+    max-width: 40vh;
   }
 }
 
@@ -80,8 +81,8 @@ footer {
     padding:0;
     height: auto; /* Adjust the header height automatically */
     position: relative; /* Reset the fixed position */
-    width: 100vw;
-    padding-right: 0vw;
+    width: 75vw;
+    padding: 25px;
   }
 
   header ul {
