@@ -1,8 +1,7 @@
 
 - name: Market Wave Dynamics
-  layout: project
+  layout: post
   link: /market-wave-dynamics/
-  pic_url: /market-wave-dynamics/Screenshot-WebModel.png
   excerpt: "
   **An agent-based financial market Model**  
 
