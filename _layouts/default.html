@@ -25,9 +25,7 @@
 
         <p class="entry">
           <!-- Insert TOC here -->
-          <small id="toc">
-            {% include toc.html html=content h_min=2 h_max=3 %}
-          </small>
+            {% include toc.html html=content h_min=2 h_max=3 id="my_toc" %}
         </p>
 
         {% if site.github.is_project_page %}
@@ -60,6 +58,23 @@
       {% endif %}
       <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
     </footer>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}">
+      document.addEventListener('DOMContentLoaded', function() {
+        var tocItems = document.querySelectorAll("#my_toc > li");
+
+        tocItems.forEach(function(item) {
+          item.addEventListener('click', function() {
+            var sublist = item.querySelector('ul');
+            if (sublist) {
+                if (sublist.style.display === 'none' || sublist.style.display === '') {
+                    sublist.style.display = 'block';
+                } else {
+                    sublist.style.display = 'none';
+                }
+            }
+          });
+        });
+      });
+    </script>
   </body>
 </html>
