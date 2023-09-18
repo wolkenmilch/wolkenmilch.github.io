@@ -57,7 +57,7 @@ body, html {
   }
 
   header a small {
-    display: outside;
+    display: inline-flex;
   }
 
   header ul {
@@ -67,4 +67,19 @@ body, html {
   #my_toc {
     max-height: calc(100vh - 100px); /* This ensures the TOC does not take up the entire screen height. Adjust the '100px' as necessary based on other header elements */
   }
+}
+
+@media print, screen and (max-width: 720px) {
+  body {
+    word-wrap:break-word;
+  }
+
+  header {
+    padding:0;
+  }
+
+  header ul, header p.view {
+    position:static;
+  }
+
 }
