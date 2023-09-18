@@ -4,6 +4,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one0
 
 title: Wolkenmilch
+logo: /assets/img/logo.jpeg
 description:  a Cloud of Curiosity and Creation
 
 show_downloads: false # ["true" or "false" (unquoted) to indicate whether to provide a download URL]
