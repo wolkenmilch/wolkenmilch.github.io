@@ -4,7 +4,7 @@ plugins:
 - jekyll-remote-theme
 # - jekyll-toc # table of content
 
-remote_theme: slate@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 
 title: Wolkenmilch
 description:  a Cloud of Curiosity and Creation
