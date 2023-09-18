@@ -59,5 +59,18 @@
       <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
     </footer>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <script>
+      window.addEventListener('resize', adjustTocHeight);
+      window.addEventListener('DOMContentLoaded', adjustTocHeight); // Adjust height on page load
+      
+      function adjustTocHeight() {
+        const header = document.querySelector('header');
+        const toc = document.querySelector('#my_toc');
+        
+        if (header && toc) {
+          toc.style.maxHeight = `${header.offsetHeight}px`;
+        }
+      }
+      </script>      
   </body>
 </html>

@@ -47,3 +47,15 @@ body, html {
 #my_toc::-webkit-scrollbar-thumb:hover {
   background-color: #555;
 }
+
+@media print, screen and (max-width: 960px) {
+  header {
+    width: 100%; /* Set the header width to 100% for small screens */
+    height: auto; /* Adjust the header height automatically */
+    position: relative; /* Reset the fixed position */
+  }
+
+  #my_toc {
+    max-height: calc(100vh - 100px); /* This ensures the TOC does not take up the entire screen height. Adjust the '100px' as necessary based on other header elements */
+  }
+}
