@@ -88,7 +88,8 @@ The transformation of writing systems has been nothing short of remarkable. It c
 
 The materials chosen by humans for inscribing their thoughts have also evolved considerably, reflecting the progress of civilizations themselves. Initial inscriptions were etched onto durable but unwieldy substances like stone and clay. However, the advent of papyrus around 3000 BC in Egypt signaled a paradigm shift. This lightweight and versatile material, initially a closely guarded Egyptian secret, soon became a sought-after export. The importance of papyrus as a medium is monumental; it served as the precursor to subsequent materials like leather and linen, and eventually, paper. These substrates not only simplified the task of recording information but also significantly aided its dissemination, playing a crucial role in the transference of knowledge across different regions and generations.
 
-![papyrus](https://images.metmuseum.org/CRDImages/eg/original/DP244339.jpg)
+
+<img class="responsive-img" src="https://images.metmuseum.org/CRDImages/eg/original/DP244339.jpg" title="papyrus">
  
 ### Economics and the Power of Writing
 
@@ -431,7 +432,7 @@ The third generation brought about another significant shift with the replacemen
 
 The fourth generation witnessed the birth of CPUs and the personal computer. Apple II, introduced in the late 1970s, became one of the first successful consumer devices, marking a significant milestone in making computing accessible to the masses. This era also saw the introduction of the first Graphical User Interface (GUI), which transformed the way users interacted with computers, making them more user-friendly and intuitive.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Trinity77.jpg/1280px-Trinity77.jpg)
+<img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Trinity77.jpg/1280px-Trinity77.jpg">
 
 The digital age, characterized by the rise of computers, has had profound implications on society. From communication and work to entertainment and leisure, electronic devices have become an integral part of our daily lives. The rapid advancements in computing technology have not only made information processing more efficient but have also democratized the access and dissemination of information, reshaping the contours of the modern world.
 
