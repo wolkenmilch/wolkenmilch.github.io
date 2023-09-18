@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "From Cave Paintings to Cyberspace"
+toc: true
 excerpt: "
 
 <div style='text-align: left;'>
