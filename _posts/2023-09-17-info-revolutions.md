@@ -336,17 +336,18 @@ The Industrial Revolution wasn't just about producing goods; it was about connec
 
 ### From Telegraph to Mass Media
 
-<div style="display: flex; margin: 10px; max-width: 100%; max-hight: 100%;">
-    <div style="flex: 1;">
-        <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/9/94/OptischerTelegraf.jpg" title="Optischer Telegraf" style="height: 100%;">
+<div style="display: flex; margin: 10px; max-width: 100%; height: auto;">
+    <div style="flex: 1; padding: 5px;">
+        <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/9/94/OptischerTelegraf.jpg" title="Optischer Telegraf" style="width: 100%; max-width: 100%; height: auto;">
     </div>
-    <div style="flex: 1;">
-        <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Soemmerring_1810_telegraph_overview.jpg" title="Georges-Louis Le Sage early electric telegraph (1774)" style="height:  100%;">
+    <div style="flex: 1; padding: 5px;">
+        <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Soemmerring_1810_telegraph_overview.jpg" title="Georges-Louis Le Sage early electric telegraph (1774)" style="width: 100%; max-width: 100%; height: auto;">
     </div>
-        <div style="flex: 1;">
-        <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Alexander_Graham_Bell%27s_Telephone_Patent_Drawing_and_Oath_-_NARA_-_302052_%28page_2%29.jpg" title="Bell's patent drawing of the telefone" style="height:  100%;">
+    <div style="flex: 1; padding: 5px;">
+        <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Alexander_Graham_Bell%27s_Telephone_Patent_Drawing_and_Oath_-_NARA_-_302052_%28page_2%29.jpg" title="Bell's patent drawing of the telefone" style="width: 100%; max-width: 100%; height: auto;">
     </div>
 </div>
+
 
 The telegraph, particularly the electrical telegraph, was a groundbreaking invention that dramatically transformed long-distance communication. Before its advent, messages were relayed through a series of semaphore towers or by horseback, both of which were slow and inefficient methods. The telegraph's ability to transmit messages over vast distances in a matter of minutes or even seconds was revolutionary.
 
