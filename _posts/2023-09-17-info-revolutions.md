@@ -398,7 +398,7 @@ In summary, the electromechanical age from 1840 to 1940 had a profound impact on
 
 The 20th century marked a significant shift in the realm of computing, transitioning from mechanical aids to electronic marvels. This evolution not only transformed the way we processed and stored information but also how we disseminated it.  
   
-<div style="display: flex; margin: 10px;  max-width: 100%; max-hight: 100%;">
+<div style="display: flex; margin: 10px;  max-width: 100%; max-hight: auto;">
     <div style="flex: 3;">
         <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Zuse_Z1-2.jpg" title="Zuse Z1" style="height: 100%;">
     </div>
