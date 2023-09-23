@@ -336,18 +336,8 @@ The Industrial Revolution wasn't just about producing goods; it was about connec
 
 ### From Telegraph to Mass Media
 
-<div style="text-align: left; max-width: 20%; float: right; margin: 10px;">
-    <div style="display: flex; flex-direction: column;">
-        <div style="flex: 50%;">
-            <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/9/94/OptischerTelegraf.jpg" title="Optischer Telegraf" style="max-width: 100%; height: auto;">
-        </div>
-        <div class="responsive-img" style="flex: 50%;">
-            <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Soemmerring_1810_telegraph_overview.jpg" title="Georges-Louis Le Sage early electric telegraph (1774)" style="max-width: 100%; height: auto;">
-        </div>
-        <div class="responsive-img" style="flex: 50%;">
-            <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Alexander_Graham_Bell%27s_Telephone_Patent_Drawing_and_Oath_-_NARA_-_302052_%28page_2%29.jpg" title="Bell's patent drawing of the telefone" style="max-width: 100%; height: auto;">
-        </div>
-    </div> 
+<div style="text-align: left;">
+    <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/9/94/OptischerTelegraf.jpg" title="Optischer Telegraf" style="max-width: 30%; float: left; margin: 10px;">
 </div>
 
 The telegraph, particularly the electrical telegraph, was a groundbreaking invention that dramatically transformed long-distance communication. Before its advent, messages were relayed through a series of semaphore towers or by horseback, both of which were slow and inefficient methods. The telegraph's ability to transmit messages over vast distances in a matter of minutes or even seconds was revolutionary.
@@ -358,6 +348,10 @@ However, even before Chappe's optical telegraph, there was an attempt at creatin
 
 The electric telegraph began to replace the optical telegraph in the mid-19th century. Samuel Morse's system, developed in the United States, became the international standard by 1865, using a modified Morse code developed in Germany in 1848. The Morse system was more efficient and practical than Le Sage's initial design, paving the way for the telegraph's widespread adoption.
 
+<div style="text-align: left;">
+    <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Alexander_Graham_Bell%27s_Telephone_Patent_Drawing_and_Oath_-_NARA_-_302052_%28page_2%29.jpg" title="Bell's patent drawing of the telefone"  style="max-width: 33%; float: right; margin: 10px;">
+</div>
+
 The telephone, introduced in 1876, further revolutionized communication. Unlike the telegraph, which required operators to translate messages into Morse code and then decode them at the other end, the telephone allowed for direct voice communication.
 
 The radio marked another significant advancement. In 1898, the first message transmission was achieved by Ferdinand Braun over a distance of 30km. By 1920, radio broadcasting began, with test transmissions taking place in Germany and Switzerland. By 1923, regular radio operations had commenced.
@@ -365,7 +359,7 @@ The radio marked another significant advancement. In 1898, the first message tra
 The term 'Mass Media' first appeared in the USA in 1920, marking the dawn of an era where information could be disseminated to vast audiences simultaneously. This era witnessed the rise of newspapers, radio broadcasts, and later, television, which played pivotal roles in shaping public opinion, culture, and politics. However, with the power to influence came the potential for misuse. The mass media's ability to reach vast audiences made it a potent tool in the hands of those seeking to manipulate public opinion.
 
 <div style="text-align: left;">
-    <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/en/c/ce/1936~Volksempfaenger.jpg" title="Propaganda" style="max-width: 50%; float: left; margin: 10px;">
+    <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/en/c/ce/1936~Volksempfaenger.jpg" title="Propaganda" style="max-width: 33%; float: left; margin: 10px;">
 </div>
 
 For instance, in the early 20th century, totalitarian regimes recognized the power of mass media as a means to control and influence their populations. Propaganda became a standard tool, with state-controlled media outlets broadcasting messages that supported the regime's ideologies and suppressed dissenting voices. The Nazi regime in Germany, for example, used radio broadcasts, films, and newspapers to propagate its messages, fostering a culture of anti-Semitism and promoting its vision of Aryan supremacy.
@@ -397,31 +391,28 @@ In summary, the electromechanical age from 1840 to 1940 had a profound impact on
 ### Rise of Computers
 
 The 20th century marked a significant shift in the realm of computing, transitioning from mechanical aids to electronic marvels. This evolution not only transformed the way we processed and stored information but also how we disseminated it.  
-  
-<div style="display: flex; margin: 10px;  max-width: 100%; max-hight: auto;">
-    <div style="flex: 3;">
-        <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Zuse_Z1-2.jpg" title="Zuse Z1" style="height: 100%;">
-    </div>
-    <div style="flex: 1.7;">
-        <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Philco_Surface_Barrier_transistor%3D1953.jpg" title="Philco Surface Barrier transistor" style="height:  100%;">
-    </div>
-    <div style="flex: 2.1;">
-        <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Intel_8742_153056995.jpg" title="Integrated Circuit" style="height:  100%;">
-    </div>
-</div>
+
+<img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Zuse_Z1-2.jpg" title="Zuse Z1">
   
 **1st Generation (1940s)**
 
 The dawn of the electronic age in computing began with the first programmable binary calculating machine in 1941, developed by Konrad Zuse. This era was characterized by the use of vacuum tubes and magnetic drums for data storage. The machines were massive, consumed a lot of power, and were prone to frequent breakdowns. However, they marked the beginning of a new age in computing.
 
-
 **2nd Generation (1950s-1960s)**
 
+<div style="text-align: left;">
+    <img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Philco_Surface_Barrier_transistor%3D1953.jpg" title="Philco Surface Barrier transistor" style="max-width: 33%; float: right; margin: 10px;">
+</div>
+
 The second generation saw the replacement of vacuum tubes with transistors, making computers smaller, faster, cheaper, and more energy-efficient. This era also witnessed the replacement of punched cards with magnetic tapes for data storage. A significant development during this period was the introduction of the programming language FORTRAN, which revolutionized the world of computing by allowing humans to communicate more easily with machines.
+
+
 
 **3rd Generation (1960s-1970s)**
 
 The third generation brought about another significant shift with the replacement of transistors by integrated circuits and chips. This miniaturization allowed for even more powerful and compact machines. The emergence of operating systems became prominent during this period, simplifying the user-computer interaction. Moreover, the programming language BASIC was introduced, further democratizing the world of computing.
+
+<img class="responsive-img" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Intel_8742_153056995.jpg" title="Integrated Circuit">
 
 **4th Generation (1970s-Present)**
 
